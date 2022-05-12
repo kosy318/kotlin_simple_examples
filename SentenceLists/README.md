@@ -1,17 +1,14 @@
-# ImageViewer
+# SentenceLists
 
 ## version1
 
-### splash screen
-<img src="https://user-images.githubusercontent.com/77595685/167531986-d925bff5-d7f2-4d1a-b9f3-3308e470af73.png" width="200"/>
+### random Sentence I put in
+<img src="https://user-images.githubusercontent.com/77595685/168094893-2e7e5e2f-c686-4445-aeaf-345a5f2a9089.png" width="200"/>
 
-### list of Images
-<img src="https://user-images.githubusercontent.com/77595685/167532090-99de4ac2-f5ea-4657-9def-dbb777c3f135.png" width="200"/>
+### when you click refresh button at bottom
+sentence changes randomly<br><br>
+<img src="https://user-images.githubusercontent.com/77595685/168095055-20b5451b-2dd5-4813-bf9e-d019b41c1488.png" width="200"/><img src="https://user-images.githubusercontent.com/77595685/168095097-97f2c06c-fa15-46e9-a1ff-b734bedf65e2.png" width="200"/>
 
-### when you click one of Images
-The picture fills the screen<br><br>
-<img src="https://user-images.githubusercontent.com/77595685/167532248-b22817c8-e6fc-405a-aa3a-36942c2ff7ab.png" width="200"/>
-
-### when you click full size Image
-goes back to list of Images screen<br><br>
-<img src="https://user-images.githubusercontent.com/77595685/167532090-99de4ac2-f5ea-4657-9def-dbb777c3f135.png" width="200"/>
+### when you click 전체 보기 button at top
+goes to list of Sentences<br><br>
+<img src="https://user-images.githubusercontent.com/77595685/168095217-3841d80f-49e1-41b5-b162-2478b0aacf21.png" width="200"/>
