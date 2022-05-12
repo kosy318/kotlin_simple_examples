@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#7D9783"
+        tools:context=".MainActivity"
+        android:orientation="vertical">
+        <!--android:background="#000000" : 바탕 색 지정-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="50sp"
+                android:gravity="center"
+                android:text="주사위 놀이"
+                android:textColor="@color/black"
+                android:fontFamily="@font/restart"
+                android:textFontWeight="900"/>
+            <!--android:textFontWeight="900" 대신 android:textStyle="bold"를 사용해도됨-->
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:weightSum="2">
+            <!-- android:weightSum="2" : 전체 2중에 1씩 차지한다는 의미 -->
+
+            <ImageView
+                android:id="@+id/dice1"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@drawable/dice_1"
+                android:layout_weight="1"/>
+            <!-- android:layout_weight="1" : 둘 다 1로 하면 1:1 비율로 차지하게 된다.-->
+
+            <ImageView
+                android:id="@+id/dice2"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@drawable/dice_2"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/diceStartBtn"
+            android:text="roll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="100dp"
+            android:background="@color/white"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</layout>

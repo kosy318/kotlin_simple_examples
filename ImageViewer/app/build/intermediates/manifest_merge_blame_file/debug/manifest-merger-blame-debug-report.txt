@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.soo.imageviewer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:6:5-32:19
+12        android:allowBackup="true"
+12-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\Administrator\.gradle\caches\transforms-3\4825226d7bdc18dc642f18a8a048b277\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:8:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.ImageViewer" >
+22-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:14:9-49
+23        <activity
+23-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:16:9-18:40
+24            android:name="com.soo.imageviewer.ImageInsideActivity"
+24-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:17:13-48
+25            android:exported="false" />
+25-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:18:13-37
+26        <!-- splash를 제일 먼저 실행하겠다. -->
+27        <activity
+27-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:20:9-28:20
+28            android:name="com.soo.imageviewer.SplashActivity"
+28-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:21:13-43
+29            android:exported="true" >
+29-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:22:13-36
+30            <intent-filter>
+30-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:23:13-27:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:24:17-69
+31-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:26:17-77
+33-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:26:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:29:9-31:39
+37            android:name="com.soo.imageviewer.MainActivity"
+37-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:30:13-41
+38            android:exported="true" />
+38-->C:\Users\Administrator\AndroidStudioProjects\ImageViewer\app\src\main\AndroidManifest.xml:31:13-36
+39
+40        <provider
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\196fb2524f7fbec903bae296278a73e3\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+41            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+41-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\196fb2524f7fbec903bae296278a73e3\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+42            android:authorities="com.soo.imageviewer.lifecycle-process"
+42-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\196fb2524f7fbec903bae296278a73e3\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+43            android:exported="false"
+43-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\196fb2524f7fbec903bae296278a73e3\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+44            android:multiprocess="true" />
+44-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Administrator\.gradle\caches\transforms-3\196fb2524f7fbec903bae296278a73e3\transformed\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+45    </application>
+46
+47</manifest>

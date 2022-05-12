@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.soo.imageviewer.app-mergeDebugResources-22:/layout/activity_main.xml",
+        "source": "com.soo.imageviewer.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-mergeDebugResources-22:\\layout\\activity_image_inside.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\layout\\activity_image_inside.xml"
+    }
+]

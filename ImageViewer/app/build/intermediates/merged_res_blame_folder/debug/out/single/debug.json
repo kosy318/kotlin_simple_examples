@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_seoguri_7.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\seoguri_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_splash_heart.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\splash_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.soo.imageviewer.app-merged_res-23:/drawable_seoguri_7.jpg.flat",
+        "source": "com.soo.imageviewer.app-main-25:/drawable/seoguri_7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_seoguri_3.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\seoguri_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.soo.imageviewer.app-merged_res-23:/drawable_seoguri_4.jpg.flat",
+        "source": "com.soo.imageviewer.app-main-25:/drawable/seoguri_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_seoguri_6.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\seoguri_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_seoguri_2.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\seoguri_2.png"
+    },
+    {
+        "merged": "com.soo.imageviewer.app-merged_res-23:/drawable_seoguri_1.jpg.flat",
+        "source": "com.soo.imageviewer.app-main-25:/drawable/seoguri_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\layout_activity_image_inside.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\layout\\activity_image_inside.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.soo.imageviewer.app-merged_res-23:/drawable_seoguri_5.jpg.flat",
+        "source": "com.soo.imageviewer.app-main-25:/drawable/seoguri_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_seoguri_5.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\seoguri_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_seoguri_1.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\seoguri_1.png"
+    },
+    {
+        "merged": "com.soo.imageviewer.app-merged_res-23:/drawable_seoguri_2.jpg.flat",
+        "source": "com.soo.imageviewer.app-main-25:/drawable/seoguri_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_seoguri_4.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\seoguri_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\xml_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\xml\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.soo.imageviewer.app-merged_res-23:/drawable_seoguri_6.jpg.flat",
+        "source": "com.soo.imageviewer.app-main-25:/drawable/seoguri_6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-merged_res-23:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\com.soo.imageviewer.app-main-25:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.soo.imageviewer.app-merged_res-23:/drawable_seoguri_3.jpg.flat",
+        "source": "com.soo.imageviewer.app-main-25:/drawable/seoguri_3.jpg"
+    }
+]
