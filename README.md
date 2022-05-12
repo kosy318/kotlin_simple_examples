@@ -25,9 +25,9 @@ Button<br>
 MainActivity.kt->Random.nextInt(from, until) / about Log. https://jolly-note.tistory.com/50 / StartActivity(intent) / setOnClickListener / findViewById<br>
 
 ### 3. listview_ex
-made data class->ListViewModel/.kt
+made data class->ListViewModel.kt<br>
 <b>xml</b><br>
-themes->parent="Theme.AppCompat.Light" (When color doesn't change)
+themes->parent="Theme.AppCompat.Light" (When color doesn't change)<br>
 LinearLayout->background / textFontWeight, textStyle / weightSum, layout_weight / <br>
 TextView<br>
 Button<br>
@@ -37,7 +37,6 @@ ListViewAdapter->getView<br>
   
   
 ### 4. SentenceLists
-made data class->ListViewModel/.kt
 <b>xml</b><br>
 ImageButton<br>
 ConstraintLayout<br>
