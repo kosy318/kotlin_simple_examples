@@ -14,6 +14,7 @@ MainActivity.kt->about DataBinding https://jolly-note.tistory.com/49 / intent.pu
 ImageInsideActivity->about DataBinding / Toast.makeText / intent.getStringExtra() / resources.getIdentifier(name_can_use_var, defType_like_drawable, getPackageName()<br>
   
 ### 2. dice_app
+font
 <b>xml</b><br>
 themes->parent="Theme.AppCompat.Light" (When color doesn't change)
 LinearLayout->background / textFontWeight, textStyle / weightSum, layout_weight / <br>
