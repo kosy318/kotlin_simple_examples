@@ -14,11 +14,11 @@ MainActivity.kt->about DataBinding https://jolly-note.tistory.com/49 / intent.pu
 ImageInsideActivity->about DataBinding / Toast.makeText / intent.getStringExtra() / resources.getIdentifier(name_can_use_var, defType_like_drawable, getPackageName()<br>
   
 ### 2. dice_app
-font<br>
 <b>xml</b><br>
-themes->parent="Theme.AppCompat.Light" (When color doesn't change)
+themes->parent="Theme.AppCompat.Light" (When color doesn't change)<br>
 LinearLayout->background / textFontWeight, textStyle / weightSum, layout_weight / <br>
 TextView<br>
+font->android:fontFamily="@font/font_name"<br>
 Button<br>
 <b>kt</b><br>
 MainActivity.kt->Random.nextInt(from, until) / about Log. https://jolly-note.tistory.com/50 / StartActivity(intent) / setOnClickListener / findViewById<br>
