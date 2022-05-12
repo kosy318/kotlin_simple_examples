@@ -5,7 +5,8 @@ go into each folder, it says what app it is.
 ### 1. ImageViewer
 <b>xml</b><br>
 values->themes->windowNodTitle true<br>
-ImageView<br>
+LinearLayout->android:orientation="vertical" : 덩어리를 세로로 나열 / android:gravity="center" : LinearLayout안에서 사진을 가운데 정렬<br>
+ImageView->android:scaleType="centerCrop" : 사진 가운데에 맞춰 확대 + 자름<br>
 cardview<br>
 splashscreen: AndroidManifest.xml->move <intent-filter> inside SplashActivity<br>
 <b>kt</b><br>
