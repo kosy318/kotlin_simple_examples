@@ -67,3 +67,6 @@ RecyclerViewAdapter.kt->onCreateViewHolder: recyclerview의 item을 불러옴 / 
   <b>kt</b><br>
   com.soo.navigation_ex->New Fragment(blank)<br>
   First/Second/ThirdFragment.kt->onCreate와 onCreateView 남기고 지움 / setOnClickListener 내부, it.findNavController().navigation(R.id.action_firstFragment_to_secondFragment)와 같은 방식으로 Fragment 전환<br>
+  
+### 8. MusicList
+  Similar to 7. Navigation_ex
