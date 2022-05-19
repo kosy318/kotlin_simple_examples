@@ -45,3 +45,5 @@ MainActivity.kt->.random()하면 List안에서 랜덤하게 나온다<br>
   
   
 ### 5. listview_ex2
+<b>kt</b><br>
+MainActivity.kt->.setOnItemClickListener
