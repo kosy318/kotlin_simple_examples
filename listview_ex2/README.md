@@ -1,4 +1,4 @@
-# SentenceLists
+# listview_ex2
 
 ### List
 when you click each list items, it shows toast message<br><br>
