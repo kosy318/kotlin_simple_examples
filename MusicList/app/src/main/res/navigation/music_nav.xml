@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/music_nav"
+    app:startDestination="@id/music1Fragment">
+
+    <fragment
+        android:id="@+id/music1Fragment"
+        android:name="com.soo.musiclist.Music1Fragment"
+        android:label="fragment_music1"
+        tools:layout="@layout/fragment_music1" >
+        <action
+            android:id="@+id/action_music1Fragment_to_music2Fragment"
+            app:destination="@id/music2Fragment" />
+        <action
+            android:id="@+id/action_music1Fragment_to_music3Fragment"
+            app:destination="@id/music3Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/music2Fragment"
+        android:name="com.soo.musiclist.Music2Fragment"
+        android:label="fragment_music2"
+        tools:layout="@layout/fragment_music2" >
+        <action
+            android:id="@+id/action_music2Fragment_to_music3Fragment"
+            app:destination="@id/music3Fragment" />
+        <action
+            android:id="@+id/action_music2Fragment_to_music1Fragment"
+            app:destination="@id/music1Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/music3Fragment"
+        android:name="com.soo.musiclist.Music3Fragment"
+        android:label="fragment_music3"
+        tools:layout="@layout/fragment_music3" >
+        <action
+            android:id="@+id/action_music3Fragment_to_music1Fragment"
+            app:destination="@id/music1Fragment" />
+        <action
+            android:id="@+id/action_music3Fragment_to_music2Fragment"
+            app:destination="@id/music2Fragment" />
+    </fragment>
+</navigation>
