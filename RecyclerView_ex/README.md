@@ -1,3 +1,3 @@
 # RecyclerView_ex
 
-<img src="https://user-images.githubusercontent.com/77595685/169374291-2839ee98-b338-45f3-89dd-f6dcbfe8ba4f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/77595685/169374460-f079e132-bccd-4f3a-b332-115a9f6ca22c.gif" width="200"/>
