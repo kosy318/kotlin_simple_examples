@@ -55,3 +55,15 @@ recyclerview_item.xml->높이를 지정해줘야한다!!<br>
 <b>kt</b><br>
 MainActivity.kt->recyclerview.adapter=recyclerViewAdapter / recyclerview.layoutManager=LinearLayoutManager(this) / itemClick 이벤트를 사용하기 위해서는 RecyclerViewAdapter.kt에 선언한 itemClick을 통해 사용<br>
 RecyclerViewAdapter.kt->onCreateViewHolder: recyclerview의 item을 불러옴 / ItemClick interface선언: Adapter에 직접 선언을 해줘야 사용할 수 있다 / onBindingViewHolder: 불러온 item을 view Binding / getItemCount: 전체 리사이클러뷰의 개수 / ViewHolder: view를 재사용해서 선능이 ListView에 비해 좋다.<br>
+  
+### 7. Navigation_ex
+  Activity가 아닌 Fragment가 전환<br>
+  <b>xml</b><br>
+  activity_main.xml<br>
+  main_activity->Design->NavHostFragment(Drag and Drop)->main_nav(click)<br>
+  fragment_first.xml / fragment_second.xml / fragment_third.xml->layout_gravity="bottom": Nav_bar 아래쪽에 생성<br>
+  app->우클릭->New Resource File->Resource type: Navigation<br>
+  main_nav.xml->New Destination에서 fragment들 추가 후 연결<br>
+  <b>kt</b><br>
+  com.soo.navigation_ex->New Fragment(blank)<br>
+  First/Second/ThirdFragment.kt->onCreate와 onCreateView 남기고 지움 / setOnClickListener 내부, it.findNavController().navigation(R.id.action_firstFragment_to_secondFragment)와 같은 방식으로 Fragment 전환<br>
