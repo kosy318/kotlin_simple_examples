@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         val listviewAdapter = ListViewAdapter(list_item)
         listview.adapter = listviewAdapter
 
+        // list를 클릭했을때
         listview.setOnItemClickListener { parent, view, position, id ->
             Toast.makeText(this, list_item[position].text1+" "+list_item[position].text2, Toast.LENGTH_SHORT).show()
         }
