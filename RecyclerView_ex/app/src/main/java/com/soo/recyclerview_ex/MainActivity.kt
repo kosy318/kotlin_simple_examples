@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val items = mutableListOf<String>("a", "b", "c")
+        val items = mutableListOf<String>("a", "b", "c", "a", "b", "c", "a", "b", "c", "a", "b", "c", "a", "b", "c")
 
         val recyclerview = findViewById<RecyclerView>(R.id.recyclerView)
 
