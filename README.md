@@ -47,3 +47,11 @@ MainActivity.kt->.random()하면 List안에서 랜덤하게 나온다<br>
 ### 5. listview_ex2
 <b>kt</b><br>
 MainActivity.kt->.setOnItemClickListener
+
+### 6. RecyclerView_ex
+<b>xml</b><br>
+activity_main.xml->recyclerview<br>
+recyclerview_item.xml->높이를 지정해줘야한다!!<br>
+<b>kt</b><br>
+MainActivity.kt->recyclerview.adapter=recyclerViewAdapter / recyclerview.layoutManager=LinearLayoutManager(this) / itemClick 이벤트를 사용하기 위해서는 RecyclerViewAdapter.kt에 선언한 itemClick을 통해 사용<br>
+RecyclerViewAdapter.kt->onCreateViewHolder: recyclerview의 item을 불러옴 / ItemClick interface선언: Adapter에 직접 선언을 해줘야 사용할 수 있다 / onBindingViewHolder: 불러온 item을 view Binding / getItemCount: 전체 리사이클러뷰의 개수 / ViewHolder: view를 재사용해서 선능이 ListView에 비해 좋다.<br>
