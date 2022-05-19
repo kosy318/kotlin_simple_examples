@@ -33,8 +33,8 @@ TextView<br>
 Button<br>
 <b>kt</b><br>
 MainActivity.kt->MutableList / adapter / layoutInflater.inflate / addHeaderView(ListView에 Header추가) / onBackPressed()(두번 뒤로가기가 발생하면 종료)<br>
+ListViewModel.kt<br>
 ListViewAdapter->getView<br>
-  
   
 ### 4. SentenceLists
 <b>xml</b><br>
@@ -42,3 +42,6 @@ ImageButton<br>
 ConstraintLayout<br>
 <b>kt</b><br>
 MainActivity.kt->.random()하면 List안에서 랜덤하게 나온다<br>
+  
+  
+### 5. listview_ex2
