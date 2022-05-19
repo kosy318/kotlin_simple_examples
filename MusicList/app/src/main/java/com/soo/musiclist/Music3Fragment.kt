@@ -33,6 +33,18 @@ class Music3Fragment : Fragment() {
         items.add("노래3-1")
         items.add("노래3-2")
         items.add("노래3-3")
+        items.add("노래3-1")
+        items.add("노래3-2")
+        items.add("노래3-3")
+        items.add("노래3-1")
+        items.add("노래3-2")
+        items.add("노래3-3")
+        items.add("노래3-1")
+        items.add("노래3-2")
+        items.add("노래3-3")
+        items.add("노래3-1")
+        items.add("노래3-2")
+        items.add("노래3-3")
 
         // fragment_music1.xml에서 MusicRv를 찾아옴옴
         val rv = view.findViewById<RecyclerView>(R.id.MusicRv)
