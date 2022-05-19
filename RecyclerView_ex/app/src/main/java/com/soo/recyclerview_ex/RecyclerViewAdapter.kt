@@ -28,8 +28,8 @@ class RecyclerViewAdapter(val items: MutableList<String>): RecyclerView.Adapter<
 
         // 클릭했을 때
         if(itemClick != null){
-            holder.itemView.setOnClickListener{ v->
-                itemClick?.onClick(v, position)
+            holder.itemView.setOnClickListener{
+                itemClick?.onClick(it, position)
             }
         }
         holder.bindItems(items[position])
