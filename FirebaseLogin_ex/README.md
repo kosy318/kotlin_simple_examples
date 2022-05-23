@@ -1,4 +1,6 @@
 # FirebaseLogin_ex
+<img src="https://user-images.githubusercontent.com/77595685/169738364-989dd7ee-d5a1-4f01-b10d-8d3d3bd68818.gif" width="200"/>
+<br><br>
 
 ### login screen
 <img src="https://user-images.githubusercontent.com/77595685/169738314-6f1b4597-4b0e-4518-b7f5-90b526559eaa.png" width="200"/>
@@ -18,6 +20,3 @@ show toast "로그아웃" and return to login screen<br><br>
 ###  when you click 비회원 로그인 button
 show toast "로그인" and move to another screen with text Hi! there's no email shows<br><br>
 <img src="https://user-images.githubusercontent.com/77595685/169738692-42af2613-c929-4224-82c6-efa0ac67f090.png" width="200"/>
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/77595685/169738364-989dd7ee-d5a1-4f01-b10d-8d3d3bd68818.gif" width="200"/>
