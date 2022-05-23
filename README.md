@@ -70,3 +70,15 @@ RecyclerViewAdapter.kt->onCreateViewHolder: recyclerview의 item을 불러옴 / 
   
 ### 8. MusicList
   Similar to 7. Navigation_ex
+  
+### 9. FirebaseLogin_ex
+  Firebase : 서버의 역할을 firebase를 통해 쉽게 구현할 수 있다. 비동기형태로 데이터를 받아옴.<br>
+  firebase를 등록하면서 다운받은 json파일을 app폴더 아래에 넣음 > build.gradle에 plugin, implementation platform, implementation을 복사해서 입력<br>
+  로그인 기능 구현을 위해 build.gradle(Project)에 implementation 'com.google.firebase:firebase-auth-ktx' 입력<br><br>
+  <b>xml</b><br>
+  activity_main.xml->placeholder 기능 == hint / inputType="password"<br>
+  <b>kt</b><br>
+  MainActivity.kt->익명로그인 : https://firebase.google.com/docs/auth/android/anonymous-auth?hl=ko&authuser=0 참고 / 회원가입 및 로그인 : https://firebase.google.com/docs/auth/android/password-auth?hl=ko&authuser=0 참고<br>
+  InsideApp.kt->로그아웃 : Firebase.auth.signOut()<br>
+  
+  
